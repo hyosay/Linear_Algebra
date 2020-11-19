@@ -1,6 +1,6 @@
 # Linear_Algebra
 
-LU Decomposition
+### LU Decomposition
 
 ### E^-1EA = E^-1U
 
