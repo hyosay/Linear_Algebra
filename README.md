@@ -43,7 +43,9 @@
 A^T*A = symmertric matrix가 나온다.
   
  
-
+nonsingular matrix = regular matrix = invertible matrix
+즉 비특이행렬 이면 정칙행렬이고 역함수행렬이 존재한다는 뜻
+n * n square에서 rank는 n이 
 
 
 
