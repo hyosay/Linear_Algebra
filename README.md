@@ -50,6 +50,12 @@ n * n square에서 rank는 n이
 
 
 
+**_column space_** 와 **_left null space_** 가 **_orthogonal_** 하다.
+
+row space와 null space가 orthogonal하다.
+
+
+
 
 
 
