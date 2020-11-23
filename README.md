@@ -59,7 +59,19 @@ row space와 null space가 orthogonal하다.
 
 
 
+### overdeteminated
 
+(m > n) more equations, No solutions in most cases
+
+
+### determinated
+
+(m = n) same equ, and unknown, Exact solutions
+
+
+### underdeteminated
+
+(m < n) more unknowns, Infinitely many solutions
 
 
 
