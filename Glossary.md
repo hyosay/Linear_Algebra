@@ -14,6 +14,10 @@
     두 개의 special solution이 합쳐 선형 결합이 이루어 지고 이 선형 결합이 Nullspace를 표현함.
     
     
-    
-    column space와 left null space가 orthogonal하다.
-    row space와 null space가 orthogonal하다.
+ 
+
+5. least square method (최소제곱법)
+
+6. projection matrix(투영행렬)
+
+7. rectangular (직사각형)
